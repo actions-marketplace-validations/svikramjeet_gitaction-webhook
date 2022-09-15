@@ -1,0 +1,9 @@
+name: 'github-action-for-webhook-notification'
+author: 'svikramjeet'
+description: 'The github action to post data to webhook'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: happy
+  color: green
